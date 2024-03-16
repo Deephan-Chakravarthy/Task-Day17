@@ -1,0 +1,16 @@
+.row{
+background-color: rgb(141, 151, 151);
+}
+.card-header{
+    background-color: black;
+}
+.card-body{
+    text-align: center;
+    background: linear-gradient(to right, rgb(79, 84, 86)33% ,rgb(3, 3, 3));
+}
+img {
+    height: 10px;
+    width:  100px;
+    object-fit: cover;
+    background-size: cover;
+}
